@@ -1,0 +1,6 @@
+.container {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center;    /* Centraliza verticalmente, se necessário */
+  height: 100vh;          /* Opcional: define altura para centralizar verticalmente na tela */
+}
